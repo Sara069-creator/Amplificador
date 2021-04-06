@@ -73,9 +73,13 @@ Preguntas
 
     1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
 
+Varia la relacion  entre corriente y voltaje , manteniendo constante la potencia .
+Nos Ayuda a dar una mejor señal  pero dandola de mayor amplitud.
 
-    2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
-
+    2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.a
+     
+Alta impedancia de entrada  y baja impedancia de salida .
+Un amplificador de instrumentación tiene dos entradas, V+ y V-, una salida VO y una tierra común.
 
     3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
 
