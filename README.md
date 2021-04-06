@@ -83,6 +83,7 @@ Un amplificador de instrumentación tiene dos entradas, V+ y V-, una salida VO y
 
     3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
 
+![image](https://user-images.githubusercontent.com/75762187/113763034-d7102e00-96de-11eb-9eeb-d8792790548c.png)
 
 
 9. TABULACION DE DATOS 
